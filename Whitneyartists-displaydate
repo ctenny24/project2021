@@ -1,0 +1,27 @@
+import numpy as nb
+import pandas as pd
+import csv
+
+artists = []
+display_date = []
+
+
+#open the CSV file for Whitney artworks
+with open('Whitneyartworks.csv','r') as modern_Whitney:
+
+	#ask the csv module to parse the file for us
+	processed_csv = pd.read_csv(modern_Whitney)
+
+	#then check the first 10 rows
+	processed_csv.head(10)
+	#print(processed_csv)
+
+	#print ('Total artists:' + str(len(processed_csv)))
+
+	#print(processed_csv.dtypes) 
+
+	processed_csv.dropna(subset=['artists', 'display_date'])
+	#print(processed_csv)
+
+	processed_csv.info()
+	processed_csv.to_csv('processed_csv_modified.csv')
