@@ -1,6 +1,6 @@
 # project2021
 
-##Final Project for Cultural Heritage
+## Final Project for Cultural Heritage
 
 
 Looking at the contemporary art collections in the Whitney Museum of Art, my project uses data visualization to analyze the quantification of their collections’ key variables: year, artwork, donor, and artist. Both datasets had more than 15 fields and over 20,000 rows that lessened to 15,000 after data cleaning. Their dataset can be found here:
@@ -18,4 +18,4 @@ Create the different sheets:
 + Artworks vs Artists
 + Donors vs Display Years
 
-##Our presentation file: https://docs.google.com/presentation/d/1vKSjCBMd_2uC6CouukWpkOzGGyD-nKRNg-IuRpKebaQ/edit?usp=sharing
+## Our presentation file: https://docs.google.com/presentation/d/1vKSjCBMd_2uC6CouukWpkOzGGyD-nKRNg-IuRpKebaQ/edit?usp=sharing
