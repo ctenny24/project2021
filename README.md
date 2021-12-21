@@ -18,4 +18,4 @@ Create the different sheets:
 + Artworks vs Artists
 + Donors vs Display Years
 
-# Our presentation file: https://docs.google.com/presentation/d/1vKSjCBMd_2uC6CouukWpkOzGGyD-nKRNg-IuRpKebaQ/edit?usp=sharing
+### Our presentation file: https://docs.google.com/presentation/d/1vKSjCBMd_2uC6CouukWpkOzGGyD-nKRNg-IuRpKebaQ/edit?usp=sharing
