@@ -11,11 +11,11 @@ The analysis was broken into two parts, using similar data cleaning processes in
 
 I created packed bubbles and stacked bars in Tableau to visualize numeric similarities and differences between the variables in this collection. 
 
-My Process:
+### My Process:
 
 Create the different sheets:
 + Artworks vs Display Years
 + Artworks vs Artists
 + Donors vs Display Years
 
-## Our presentation file: https://docs.google.com/presentation/d/1vKSjCBMd_2uC6CouukWpkOzGGyD-nKRNg-IuRpKebaQ/edit?usp=sharing
+# Our presentation file: https://docs.google.com/presentation/d/1vKSjCBMd_2uC6CouukWpkOzGGyD-nKRNg-IuRpKebaQ/edit?usp=sharing
